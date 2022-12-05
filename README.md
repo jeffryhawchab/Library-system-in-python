@@ -1,5 +1,5 @@
 <h2 align="center">
-  Library system <br/>
+  Library system  management in python3 <br/>
   Made with 💕
 </h2>
 <div align="center">
